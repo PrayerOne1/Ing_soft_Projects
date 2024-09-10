@@ -1,0 +1,3 @@
+1,66,Libre
+2,2,Libre
+5,5,Reservado
